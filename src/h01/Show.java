@@ -27,6 +27,7 @@ public class Show extends Applet {
     public void paint(Graphics g) {
         g.setColor(Color.blue);
         g.drawString("Maurits", 50, 60 );
+        g.setColor(Color.red);
         g.drawString("Does", 50, 80 );
 
     }
