@@ -1,5 +1,17 @@
 package h06;
 
+//Waarom is initialiseren van variabelen noodzakelijk?
+//Anders heeft de variabele geen waarde
+
+//Waarom is er typecasting noodzakelijk bij de conversie van een double naar een int?
+//Anders verschijnt er een foutmelding
+
+//Wat is de uitvoer van dit programma? Geef een verklaring.
+//5.0, omdat 8+8= 16 / 5= 5.0 (double kapt af?)
+
+//Wat is de uitvoer van dit programma? Geef een verklaring.
+// 10.0, want 8/3=2 2+8= 10
+
 import java.awt.*;
 import java.applet.*;
 
